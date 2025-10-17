@@ -18,7 +18,6 @@ wget https://github.com/ikarus23/MifareClassicTool/blob/master/Mifare%20Classic%
 
 mfoc -f extended-std.keys -O net-security.dmp
 
-Key—> 8829da9daf76
 
 Error:
 
